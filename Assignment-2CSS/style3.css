@@ -1,0 +1,48 @@
+body{
+    background-color: coral;
+}
+
+nav{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    text-align: center;
+    font-size: large;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+
+}
+
+a{
+    padding-left: 10px;
+    color: coral;
+    border: solid brown;
+    text-decoration: none;
+    border-style: groove;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    background-color:  brown;
+
+}
+h1{
+    color: brown;
+    border-style: outset;
+    border-color: brown;
+    text-align: center;
+}
+
+.grad{
+
+    color: brown;
+    text-align: center;
+    border-style: groove;
+    border-color: brown;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.button{
+    background-color: brown;
+    color: coral;
+    border-style:outset;
+    border-color: brown;
+}
