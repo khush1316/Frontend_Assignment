@@ -1,0 +1,14 @@
+.a{
+    text-decoration: none;
+    list-style: square;
+}
+
+.i{
+    border-style: dashed;
+    border-radius: 10px;
+}
+
+.l{
+    border-style: groove;
+    border-color: black;
+}
