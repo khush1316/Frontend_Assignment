@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+}
+
+.d{
+    text-align: center;
+}
+
+body{
+    background-color: darkred;
+}
+
+h1{
+    font-family: cursive
+}
+
+#n1{
+
+    font-family: cursive;
+}
+#opr{
+
+    font-family: cursive;
+}
+#n2{
+
+    font-family: cursive;
+}
+#a{
+    font-family: cursive;
+}
+
+.button{
+
+    background-color: black;
+}
